@@ -9,12 +9,16 @@ Instructions to run the code
  3. The output will be shown on the terminal and a screen will pop up showing the algorithm working.
 '''
 
+'''
+GitHub Link : https://github.com/pratik-a99/point-robot-dijkstras
+'''
+
 import numpy as np
 import cv2
 import heapq as hq
 import math
 
-## Code to record the video (Uncomment lines 17-19, 340, 353 and 358 to enable video recording)
+## Code to record the video (Uncomment lines 21-24, 345, 358 and 363 to enable video recording)
 # result = cv2.VideoWriter('result.mp4', 
                         #  cv2.VideoWriter_fourcc(*'mp4v'),
                         #  10, (400, 250))
