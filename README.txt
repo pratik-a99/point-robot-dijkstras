@@ -15,4 +15,4 @@ The code can also be run in any IDE such as PyCharm or Visual Studio Code
 
 Testing:
 1. Input can be provided in the terminal/command line as start and goal positions to desired coordinates.
-2. The video saving code is commented and can be enabled by uncommenting lines 17-19, 340, 353 and 358.
+2. The video saving code is commented and can be enabled by uncommenting lines 21-24, 345, 358 and 363.
